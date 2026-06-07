@@ -1,0 +1,19 @@
+# Private working files for Claude / planning
+content.md
+design-handoff.md
+HANDOFF.md
+
+# Private CV drafts
+CVSber.pdf
+cv-private.pdf
+cv-draft.pdf
+
+# Claude Design reference bundles
+claude-design/
+design-reference/
+screens/
+site/
+
+# OS/editor files
+.DS_Store
+.vscode/
