@@ -18,3 +18,15 @@ site/
 # OS/editor files
 .DS_Store
 .vscode/
+# Claude Code local files
+.claude/
+
+# Private working files
+contend.md
+content.md
+design-handoff.md
+HANDOFF.md
+
+# OS/editor files
+.DS_Store
+.vscode/
